@@ -1,7 +1,7 @@
 # Movie Recommender System
 
 A content-based movie recommender built with Streamlit. Pick a movie and get
-5 similar recommendations with posters, or browse the whole catalogue.
+5 similar recommendations with posters.
 
 ## Features
 - Recommendations based on cosine similarity
