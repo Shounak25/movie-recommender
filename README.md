@@ -6,7 +6,7 @@ A content-based movie recommender built with Streamlit. Pick a movie and get
 ## Features
 - Recommendations based on cosine similarity
 - Posters fetched from the TMDB API (parallel, with retries)
-- Browse all movies, 100 per page, with search
+  
 
 ## Tech
 Python, Streamlit, pandas, TMDB API
